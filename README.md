@@ -1,4 +1,4 @@
-#TO-DO list with reactjs
+### TO-DO list with reactjs
 
 In the project directory, you can run:
 
